@@ -9,6 +9,7 @@ namespace First
           */
         public static int VerdubbelGetal(int a)
         {
+            // schrijf hier je code
             return 0;
         }
 
@@ -18,6 +19,7 @@ namespace First
 		 */
         public static int KwadrateerGetal(double a, double b)
         {
+            // schrijf hier je code
             return 0;
         }
 
@@ -26,6 +28,7 @@ namespace First
 		 */
         public static int BepaalLeeuwen(double aantal)
         {
+            // schrijf hier je code
             return 0;
         }
 
@@ -36,6 +39,7 @@ namespace First
 
         public static int SomFibonaci(int max)
         {
+            // schrijf hier je code
             return 0;
         }
 
