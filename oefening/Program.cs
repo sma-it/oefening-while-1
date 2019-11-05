@@ -33,7 +33,7 @@ namespace First
         }
 
 
-        /* Bepaal de Fibonaci nummers en tel deze op tot het fibonaci getal de opgegeven maximum (functieargument) overschreidt.
+        /* Bepaal de Fibonaci nummers en tel deze op tot het fibonaci getal het opgegeven maximum (functieargument) overschreidt.
          * Als functieresultaat geef je de som die het opgegeven maximum overschreidt.
          */
 
